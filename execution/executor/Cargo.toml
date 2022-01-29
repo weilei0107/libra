@@ -38,7 +38,7 @@ proptest = { version = "1.0.0", optional = true }
 
 [dev-dependencies]
 proptest = "1.0.0"
-rand = "0.8.3"
+rand = "0.8.4"
 
 compiled-stdlib = { path = "../../language/diem-framework/compiled" }
 compiler = { path = "../../language/compiler" }

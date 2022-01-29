@@ -24,7 +24,7 @@ diem-secure-net = { path = "../../secure/net" }
 storage-interface = { path = "../storage-interface" }
 diem-types = { path = "../../types" }
 diem-workspace-hack = { path = "../../common/workspace-hack" }
-rand = { version = "0.8.3", optional = true }
+rand = { version = "0.8.4", optional = true }
 storage-client = { path = "../storage-client", optional = true }
 proptest = { version = "1.0.0", optional = true }
 
