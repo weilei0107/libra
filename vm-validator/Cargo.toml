@@ -20,7 +20,7 @@ diem-vm = { path = "../language/diem-vm" }
 diem-workspace-hack = { path = "../common/workspace-hack" }
 
 [dev-dependencies]
-rand = "0.8.3"
+rand = "0.8.4"
 
 executor = { path = "../execution/executor" }
 executor-test-helpers = { path = "../execution/executor-test-helpers" }

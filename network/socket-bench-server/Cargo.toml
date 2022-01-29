@@ -23,4 +23,4 @@ memsocket = { path = "../memsocket" }
 netcore = { path = "../netcore", features = ["fuzzing", "testing"] }
 network = { path = "../.", features = ["testing", "fuzzing"] }
 network-builder = { path = "../builder"}
-rand = "0.8.3"
+rand = "0.8.4"

@@ -23,4 +23,4 @@ diem-types = { path = "../../../types" }
 diem-workspace-hack = { path = "../../../common/workspace-hack" }
 
 [dev-dependencies]
-rand = "0.8.3"
+rand = "0.8.4"

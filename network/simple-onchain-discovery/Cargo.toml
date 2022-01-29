@@ -32,4 +32,4 @@ subscription-service = { path = "../../common/subscription-service" }
 [dev-dependencies]
 diem-config = { path = "../../config", features = ["testing"]}
 netcore = { path = "../netcore", features = ["testing"] }
-rand = "0.8.3"
+rand = "0.8.4"
