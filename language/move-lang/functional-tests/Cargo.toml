@@ -13,7 +13,7 @@ diem-workspace-hack = { path = "../../../common/workspace-hack" }
 
 [dev-dependencies]
 anyhow = "1.0.38"
-tempfile = "3.2.0"
+tempfile = "3.3.0"
 
 datatest-stable = { path = "../../../common/datatest-stable" }
 functional-tests = { path = "../../testing-infra/functional-tests" }

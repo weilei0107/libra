@@ -33,7 +33,7 @@ thiserror = "1.0.24"
 
 [dev-dependencies]
 criterion = "0.3.4"
-tempfile = "3.2.0"
+tempfile = "3.3.0"
 proptest = "1.0.0"
 
 consensus-types = { path = "../consensus-types", features = ["fuzzing"] }
