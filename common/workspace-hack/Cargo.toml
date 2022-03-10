@@ -51,7 +51,7 @@ subtle = { version = "2.4.0", default-features = false, features = ["std"] }
 tokio = { version = "1.3.0", features = ["bytes", "default", "fs", "full", "io-std", "io-util", "libc", "macros", "memchr", "mio", "net", "num_cpus", "once_cell", "parking_lot", "process", "rt", "rt-multi-thread", "signal", "signal-hook-registry", "sync", "test-util", "time", "tokio-macros", "winapi"] }
 tokio-util = { version = "0.6.4", features = ["codec", "compat", "default", "futures-io", "io"] }
 toml = { version = "0.5.8", features = ["default"] }
-tracing = { version = "0.1.25", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
+tracing = { version = "0.1.32", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
 warp = { version = "0.3.0", features = ["default", "multipart", "tls", "tokio-rustls", "tokio-tungstenite", "websocket"] }
 zeroize = { version = "1.2.0", features = ["alloc", "default", "zeroize_derive"] }
 
@@ -101,7 +101,7 @@ syn-dff4ba8e3ae991db = { package = "syn", version = "1.0.62", features = ["clone
 tokio = { version = "1.3.0", features = ["bytes", "default", "fs", "full", "io-std", "io-util", "libc", "macros", "memchr", "mio", "net", "num_cpus", "once_cell", "parking_lot", "process", "rt", "rt-multi-thread", "signal", "signal-hook-registry", "sync", "test-util", "time", "tokio-macros", "winapi"] }
 tokio-util = { version = "0.6.4", features = ["codec", "compat", "default", "futures-io", "io"] }
 toml = { version = "0.5.8", features = ["default"] }
-tracing = { version = "0.1.25", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
+tracing = { version = "0.1.32", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
 warp = { version = "0.3.0", features = ["default", "multipart", "tls", "tokio-rustls", "tokio-tungstenite", "websocket"] }
 zeroize = { version = "1.2.0", features = ["alloc", "default", "zeroize_derive"] }
 
@@ -146,7 +146,7 @@ subtle = { version = "2.4.0", default-features = false, features = ["std"] }
 tokio = { version = "1.3.0", features = ["bytes", "default", "fs", "full", "io-std", "io-util", "libc", "macros", "memchr", "mio", "net", "num_cpus", "once_cell", "parking_lot", "process", "rt", "rt-multi-thread", "signal", "signal-hook-registry", "sync", "test-util", "time", "tokio-macros", "winapi"] }
 tokio-util = { version = "0.6.4", features = ["codec", "compat", "default", "futures-io", "io"] }
 toml = { version = "0.5.8", features = ["default"] }
-tracing = { version = "0.1.25", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
+tracing = { version = "0.1.32", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
 warp = { version = "0.3.0", features = ["default", "multipart", "tls", "tokio-rustls", "tokio-tungstenite", "websocket"] }
 zeroize = { version = "1.2.0", features = ["alloc", "default", "zeroize_derive"] }
 
@@ -196,7 +196,7 @@ syn-dff4ba8e3ae991db = { package = "syn", version = "1.0.62", features = ["clone
 tokio = { version = "1.3.0", features = ["bytes", "default", "fs", "full", "io-std", "io-util", "libc", "macros", "memchr", "mio", "net", "num_cpus", "once_cell", "parking_lot", "process", "rt", "rt-multi-thread", "signal", "signal-hook-registry", "sync", "test-util", "time", "tokio-macros", "winapi"] }
 tokio-util = { version = "0.6.4", features = ["codec", "compat", "default", "futures-io", "io"] }
 toml = { version = "0.5.8", features = ["default"] }
-tracing = { version = "0.1.25", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
+tracing = { version = "0.1.32", features = ["attributes", "default", "log", "std", "tracing-attributes"] }
 warp = { version = "0.3.0", features = ["default", "multipart", "tls", "tokio-rustls", "tokio-tungstenite", "websocket"] }
 zeroize = { version = "1.2.0", features = ["alloc", "default", "zeroize_derive"] }
 
