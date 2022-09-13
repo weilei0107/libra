@@ -16,7 +16,7 @@ byteorder = { version = "1.4.2", default-features = false }
 bytes = "1.0.1"
 fail = "0.4.0"
 futures = "0.3.12"
-itertools = { version = "0.10.0", default-features = false }
+itertools = { version = "0.10.4", default-features = false }
 mirai-annotations = { version = "1.10.1", default-features = false }
 num-derive = { version = "0.3.3", default-features = false }
 num-traits = { version = "0.2.14", default-features = false }

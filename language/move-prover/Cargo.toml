@@ -31,7 +31,7 @@ codespan-reporting = "0.8.0"
 futures = "0.3.12"
 handlebars = "3.5.3"
 hex = "0.4.3"
-itertools = "0.10.0"
+itertools = "0.10.4"
 log = { version = "0.4.14", features = ["serde"] }
 num = "0.4.0"
 pretty = "0.10.0"
