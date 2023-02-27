@@ -33,6 +33,6 @@ diem-transaction-builder = { path = "../transaction-builder" }
 
 [dev-dependencies]
 serde_json = "1.0.64"
-tempfile = "3.2.0"
+tempfile = "3.4.0"
 
 diem-config = { path = "../../config" }
