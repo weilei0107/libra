@@ -25,7 +25,7 @@ move-core-types = { path = "../../move-core/types" }
 bcs = "0.1.2"
 
 [dev-dependencies]
-tempfile = "3.2.0"
+tempfile = "3.4.0"
 which = "4.0.2"
 
 [features]

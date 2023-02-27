@@ -58,7 +58,7 @@ subscription-service = { path = "../common/subscription-service" }
 
 [dev-dependencies]
 proptest = "1.0.0"
-tempfile = "3.2.0"
+tempfile = "3.4.0"
 
 consensus-types = { path = "consensus-types", default-features = false, features = ["fuzzing"] }
 executor-test-helpers = { path = "../execution/executor-test-helpers" }
